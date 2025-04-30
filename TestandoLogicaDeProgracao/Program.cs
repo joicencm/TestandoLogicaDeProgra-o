@@ -1,4 +1,4 @@
-﻿namespace TestandoLogicaDeProgração
+﻿namespace TestandoLogicaDeProgracao
 {
     internal class Program
     {
